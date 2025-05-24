@@ -97,5 +97,8 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FL4n0x4L/images.jpg" group-title="Sports Channels",Moto Racing 📺
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fe320f6f-fbc4-4b81-8549-1f7a5ff71ca0/0.m3u8
+#EXTM3U
+#EXTINF:1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="news",Channel I HD
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 
 
