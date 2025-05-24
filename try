@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News",Channel 24 📺 (AKASH GO 📡)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="News",SOMOY TV 📺 (AKASH GO 📡)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s" group-title="News",Ekattor TV 📺 (AKASH GO 📡)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32r8EN-5z5gaRaC_IzkGk0cmJnA5lOm1eOw&s" group-title="News",JAMUNA TV 📺 (AKASH GO 📡)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9GtC-NGgGLBS3mJ84Oxv3cybF7Ta6NyHuUOpivz8saRoK7NdCzOwqcU&s=10" group-title="News",INDEPENDENT 📺 (AKASH GO 📡)
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x59782" group-title="News",SAMAY KOLKATA 📺 (INDIA)
+https://server.playontv.in/SAMAYKOLKATA/index.m3u8
