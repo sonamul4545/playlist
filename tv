@@ -16,3 +16,6 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 
 #EXTINF:1 tvg-name="Bangla Vision" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png" group-title="news",Bangla Vision
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/index.m3u8
+#EXTM3U
+#EXTINF:1 tvg-name="BTV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561595482.png" group-title="news",BTV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/index.m3u8
