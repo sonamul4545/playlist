@@ -743,3 +743,174 @@ https://ayna-three.vercel.app/api/stream/3830c379-539b-4e18-9943-9664574c850b.m3
 
 #EXTINF:-1 tvg-id="49" tvg-logo="https://s3.aynaott.com/storage/4ff26fcdc9c7fdebcd79d61893271f69", Nickjr
 https://ayna-three.vercel.app/api/stream/c197b1bc-8909-4176-a50f-f855a4a51c1f.m3u8
+
+
+SONY LIV
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" group-title="Entertainment",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" group-title="Entertainment",Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF:-1 tvg-id="sony-marathi" tvg-logo="https://i.postimg.cc/ZqvcSG5j/SONY-MARATHI.png" group-title="Entertainment",Sony Marathi
+https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" group-title="Entertainment",Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="Entertainment",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" group-title="Kids",Sony Yay
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" group-title="Movies",Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://i.postimg.cc/X7MmrgCs/SONY-MAX.png" group-title="Movies",Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://i.postimg.cc/hGYnSKpg/SONY-PIX-HD.png" group-title="Movies",Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://i.postimg.cc/t4g4cy4Z/SONY-BBC-EARTH.png" group-title="Infotainment",Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://i.postimg.cc/d00sTpK0/SONY-SPORTS-TEN-1-HD.png" group-title="Sports",Sony Sports Ten 1 HD
+https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://i.postimg.cc/wvfsmLrC/SONY-SPORTS-TEN-2-HD.png" group-title="Sports",Sony Sports Ten 2 HD
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://i.postimg.cc/2SGvDswj/SONY-SPORTS-TEN-3-HD.png" group-title="Sports",Sony Sports Ten 3 HD
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 4 HD
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://i.postimg.cc/xCzcchKz/SONY-SPORTS-TEN-5-HD.png" group-title="Sports",Sony Sports Ten 5 HD
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+#EXTINF:-1 tvg-id="sony-kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="SonyLIV by CRICFy",Sony KAL
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+ZEE5 LIST 
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="AAJTAKHDNEWSELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png" group-title="General",Aaj Tak
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=AAJTAKHDNEWSELE&key=2105503&e=.m3u8
+#EXTINF:-1 tvg-id="ZEENEWSELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png" group-title="General",Zee News
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEENEWSELE&key=2105510&e=.m3u8
+#EXTINF:-1 tvg-id="INDIATODAYHDNEWSELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Today.png" group-title="General",India Today
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=INDIATODAYHDNEWSELE&key=2105501&e=.m3u8
+#EXTINF:-1 tvg-id="GOODNEWSTODAYHDNEWSELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Good News_Today.png" group-title="General",Good News Today
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=GOODNEWSTODAYHDNEWSELE&key=2105499&e=.m3u8
+#EXTINF:-1 tvg-id="AndPriveHDELENEW" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Prive_HD.png" group-title="General",&Prive HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=AndPriveHDELENEW&key=2104969&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEPUHRHIELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjab_Haryana_Himachal_Pradesh.png" group-title="General",Zee Punjab Haryana Himachal Pradesh
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEPUHRHIELE&key=2105493&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEBUSINESSELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Business.png" group-title="General",Zee Business
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEBUSINESSELE&key=2105509&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE24KALAKELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Kalak.png" group-title="General",Zee 24 Kalak
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEE24KALAKELE&key=2105497&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE24TAASNEWSNEWELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="General",Zee 24 Taas
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEE24TAASNEWSNEWELE&key=2105498&e=.m3u8
+#EXTINF:-1 tvg-id="WIONNEWSELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/WION.png" group-title="General",WION
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=WIONNEWSELE&key=2105506&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEBHARATNEWSNEWELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bharat.png" group-title="General",Zee Bharat
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEBHARATNEWSNEWELE&key=2105262&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEBHJKELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bihar_Jharkhand.png" group-title="General",Zee Bihar Jharkhand
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEBHJKELE&key=2105492&e=.m3u8
+#EXTINF:-1 tvg-id="ZEE24GHANTAELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/24_Ghanta_TV.png" group-title="General",Zee 24 Ghanta
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEE24GHANTAELE&key=2105511&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEDELNCRHRNEWSNEWELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Delhi_NCR_Haryana.png" group-title="General",Zee Delhi NCR Haryana
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEDELNCRHRNEWSNEWELE&key=2105507&e=.m3u8
+#EXTINF:-1 tvg-id="ZEERAJASTHANELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Rajasthan_News.png" group-title="General",Zee Rajasthan News
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEERAJASTHANELE&key=2105496&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEMPCGELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Madhya_Pradesh_Chhattisgarh.png" group-title="General",Zee Madhya Pradesh Chhattisgarh
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEMPCGELE&key=2105495&e=.m3u8
+#EXTINF:-1 tvg-id="BigMagicELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Big_Magic.png" group-title="General",Big Magic
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=BigMagicELE&key=2105176&e=.m3u8
+#EXTINF:-1 tvg-id="ZingELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zing.png" group-title="General",Zing
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZingELE&key=2105532&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTVHDMSLELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="General",Zee TV HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTVHDMSLELE&key=2105531&e=.m3u8
+#EXTINF:-1 tvg-id="AndTVHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="General",&TV HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=AndTVHDELE&key=2105504&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathiHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="General",Zee Marathi HD
+https://bdixiptvbd.com/zee5/playlist.php?id=ZeeMarathiHDELE&key=2105520&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeYuvaELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="General",Zee Yuva
+https://bdixiptvbd.com/zee5/playlist.php?id=ZeeYuvaELE&key=2105533&e=.m3u8
+#EXTINF:-1 tvg-id="ZeecafeHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cafe_HD.png" group-title="General",Zee Café HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeecafeHDELE&key=2105539&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeGangaELE" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1755,h_987,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/list_clean/1170x658b1a857ea78b747b4a6256dd13b3828fd.png" group-title="General",h_987
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeGangaELE&key=2105171&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTamilHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="General",Zee Tamil HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTamilHDELE&key=2105530&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTeluguHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu_HD.png" group-title="General",Zee Telugu HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTeluguHDELE&key=2105545&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeKannadaHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada_HD.png" group-title="General",Zee Kannada HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeKannadaHDELE&key=2105555&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeKeralamHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png" group-title="General",Zee Keralam HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeKeralamHDELE&key=2105529&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_HD.png" group-title="General",Zee Bangla HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeBanglaHDELE&key=2105554&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="General",Zee Anmol
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeAnmolELE&key=2105526&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="General",Zee Cinema HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeCinemaHDELE&key=2105540&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaluHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png" group-title="General",Zee Cinemalu HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeCinemaluHDELE&key=2105544&e=.m3u8
+#EXTINF:-1 tvg-id="ANDPicturesHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="General",&Pictures HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ANDPicturesHDELE&key=2105174&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkiesHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" group-title="General",Zee Talkies HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTalkiesHDELE&key=2105519&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinemaELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="General",Zee Bangla Cinema
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeBanglaCinemaELE&key=2105524&e=.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabiELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Punjabi.png" group-title="General",Zee Punjabi
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeePunjabiELE&key=2105170&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeAnmolCinemaELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png" group-title="General",Zee Anmol Cinema
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeAnmolCinemaELE&key=2105525&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeBollywoodELE" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" group-title="General",Zee Bollywood
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeBollywoodELE&key=2105173&e=.m3u8
+#EXTINF:-1 tvg-id="ANDPicturesELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Pictures.png" group-title="General",&Pictures
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ANDPicturesELE&key=2105528&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemaELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="General",Zee Cinema
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeCinemaELE&key=2105552&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeActionELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Action.png" group-title="General",Zee Action
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeActionELE&key=2105527&e=.m3u8
+#EXTINF:-1 tvg-id="AndFlixHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="General",&flix HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=AndFlixHDELE&key=2105517&e=.m3u8
+#EXTINF:-1 tvg-id="SanskarTVMSLELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sanskar.png" group-title="General",Sanskar TV
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=SanskarTVMSLELE&key=2105500&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTVELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_TV.png" group-title="General",Zee TV
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTVELE&key=2105536&e=.m3u8
+#EXTINF:-1 tvg-id="ZEESALAAMELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Salaam.png" group-title="General",Zee Salaam
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEESALAAMELE&key=2105104&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeSarthakELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Sarthak.png" group-title="General",Zee Sarthak
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeSarthakELE&key=2105541&e=.m3u8
+#EXTINF:-1 tvg-id="ZEEUPUKELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News_Uttar_Pradesh_Uttrakhand.png" group-title="General",Zee News Uttar Pradesh Uttrakhand
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEEUPUKELE&key=2105494&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeClassicELE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdNX-Vec3MhbUtOb-4D8Q1_TqUWE32DrIL0uz-NpOnewKmaqu2TkmsK-P2Q1faXMApXTpDGUa0MTssVF5IUZvxoWxfcX4QGxjMGKl8ytXQ4EgYJo1yXXsnnk7344LUW_m7SKO2DtNKCGyqYTRsr5INCxrx1qWKx3zOEPrzGRK-F_v6FAmcYFECuMg/s1024/1000011663.png" group-title="General",Zee Classic
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeClassicELE&key=2105547&e=.m3u8
+#EXTINF:-1 tvg-id="AndxploreHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Xplore_HD.png" group-title="General",&xplorHD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=AndxploreHDELE&key=2105553&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeBiskopeELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bioskope_SD.png" group-title="General",Zee Biskope
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeBiskopeELE&key=2105522&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeThiraiELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="General",Zee Thirai
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeThiraiELE&key=2105172&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeZestHDELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Zest_HD.png" group-title="General",Zee Zest HD
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeZestHDELE&key=2105513&e=.m3u8
+#EXTINF:-1 tvg-id="ZeePiccharELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Picchar_SD.png" group-title="General",Zee Picchar
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeePiccharELE&key=2105542&e=.m3u8
+#EXTINF:-1 tvg-id="ZEECHITRAMANDIRELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Chitramandir.png" group-title="General",Zee Chitramandir
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZEECHITRAMANDIRELE&key=2105261&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeKannadaELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Kannada.png" group-title="General",Zee Kannada
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeKannadaELE&key=2105177&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="General",Zee Bangla
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeBanglaELE&key=2105260&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTeluguELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Telugu.png" group-title="General",Zee Telugu
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTeluguELE&key=2105179&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeMarathiELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="General",Zee Marathi
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeMarathiELE&key=2105543&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTamilELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="General",Zee Tamil
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTamilELE&key=2105537&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeCinemalauELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="General",Zee Cinemalu
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeCinemalauELE&key=2105548&e=.m3u8
+#EXTINF:-1 tvg-id="ZeeTalkiesELE" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="General",Zee Talkies
+https://digitalviewonline.com/zee5_by_skshakib/playlist.php?id=ZeeTalkiesELE&key=2105538&e=.m3u8
+
+
