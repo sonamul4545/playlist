@@ -2,9 +2,6 @@
 #EXTINF:1 tvg-name="Duronto TV" tvg-logo="https://s3.aynaott.com/storage/71206b9bbc2b330b346564a9369a20d9" group-title="kids",Duronto TV
 https://ayna-three.vercel.app/api/stream/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
 
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="News Channels",Channel 24 📺 (AKASH GO 📡)
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
