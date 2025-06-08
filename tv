@@ -16,6 +16,21 @@ https://jmp2.uk/sam-INBD1300007ST.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="News Channels",CNN 📺
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/729644538DD_YADAGIRI.webp" group-title="Door Darshan",DD YADGIRI
+https://tumar-abbu.pages.dev/WavesOTT/DD-YADGIRI/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/651127723DD_URDU.webp" group-title="Door Darshan",DD Urdu
+https://tumar-abbu.pages.dev/WavesOTT/DD-URDU/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/225805045cropped-ZEE_NEWS_LOGO_NEW_CMYK.webp" group-title="News",Zee News
+https://tumar-abbu.pages.dev/WavesOTT/Zee-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/1483991994india_tv.webp" group-title="News",India TV
+https://tumar-abbu.pages.dev/WavesOTT/India-TV-News/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/338707128Sansad_TV__4_.webp" group-title="News",SANSAD TV 1
+https://tumar-abbu.pages.dev/WavesOTT/SANSAD-TV-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/317045659DD_TRIPURA__2_.webp" group-title="News",Aaj Tak
+https://tumar-abbu.pages.dev/WavesOTT/AAJ-TAK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://prodcdn1.wavespb.com/shows/thumbnail/925545393ABP_NEWS.webp" group-title="News",ABP News
+https://tumar-abbu.pages.dev/WavesOTT/ABP-NEWS/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" group-title="Islam Channel",Salaam Tv 📺
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
