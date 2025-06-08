@@ -15,8 +15,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1704/output/index.m3u8
 https://jmp2.uk/sam-INBD1300007ST.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="News Channels",CNN 📺
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" group-title="Islam Channel",Salaam Tv 📺
 https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
