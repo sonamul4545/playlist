@@ -1098,3 +1098,49 @@ https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_i
 #KODIPROP:inputstream.adaptive.license_key=5ea90a1f3b1e4a0a9b72c8e0f4a9bf31:30899fda5ca4dfb5a4535ce10c4d7341
 #EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Marathi" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" group-title="SunNxt", Sun Marathi AU
 https://livestream5.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_index.mpd
+
+title="Music", Mastiii
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8?hdnts=st%3D1749692666~exp%3D1749714266~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fsablive_https%2Fmastii%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_23_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_23_-1~hmac%3Dbedf5125e2b45c44eb6d582f88c9661a707603d4c6eb61cc7013d29b46fa386a
+
+#EXTINF:-1 tvg-id="137" tvg-chno="67" tvg-name="balle-balle" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/balle-balle.png" group-title="Music", Balle Balle
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/balleballe/playlist.m3u8?hdnts=st%3D1749692666~exp%3D1749714266~acl%3D%21%2A%2F080823%2Fballeballe%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_137_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_137_-1~hmac%3D0de87702b0ea49a47677e4fe2a52128fa14f81c572cf98db7eaf58151a9c606c
+
+#EXTINF:-1 tvg-id="126" tvg-chno="68" tvg-name="insync" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/insync.png" group-title="Music", insync
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/insync/playlist.m3u8?hdnts=st%3D1749692666~exp%3D1749714266~acl%3D%21%2A%2F080823%2Finsync%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_126_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_126_-1~hmac%3D34f95b47cf6ac2b0043f2c44b2d42b19ee67810b45896c210e093e5b614b2fce
+
+#EXTINF:-1 tvg-id="192" tvg-chno="69" tvg-name="haryanvi-hits" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/haryanvi-hits.png" group-title="Music", Haryanvi Hits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://livegeoroueu.akamaized.net/28072023/smil:haryanvihits.smil/playlist.m3u8?hdnts=st%3D1749692667~exp%3D1749714267~acl%3D%21%2A%2F28072023%2Fsmil%3Aharyanvihits.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_192_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_192_-1~hmac%3Dac5db47737a8a9bc89c3299b1e91fd8cf6d4fccec0d0d38fd087bc3372673c35
+
+#EXTINF:-1 tvg-id="214" tvg-chno="70" tvg-name="songdew" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/songdew.png" group-title="Music", Songdew
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppparoriglin.akamaized.net/181224/smil:songdewtv.smil/playlist.m3u8?hdnts=st%3D1749692667~exp%3D1749714267~acl%3D%21%2A%2F181224%2Fsmil%3Asongdewtv.smil%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_214_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_214_-1~hmac%3Deea2fbeb6b4523960522b29bed313131abe0c260c28796b0a5cd2b4a21d59da7
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8?hdnts=st%3D1749692668~exp%3D1749714268~acl%3D%21%2A%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fmurasu_nim_https%2F050522%2Fmurasu%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_146_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_146_-1~hmac%3De5eefe4fbe6a9972e38c34340062cc34bb297000bac7ab0cac25569b90c45cca
+
+#EXTINF:-1 tvg-id="70" tvg-chno="537" tvg-name="thalaa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/thalaa-tv.png" group-title="Music", Thalaa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://streams2.sofast.tv/ptnr-yupptv/title-THALAA-TV-TAM_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8?hdnts=st%3D1749692669~exp%3D1749714269~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-THALAA-TV-TAM_yupptv%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F2069c593-3c07-4d62-9d44-746be5c3a5d6%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_70_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_70_-1~hmac%3D225d20c9ac6ee6793b721c14020c671f7734f958fd3429c31073a13c886af386
+
+#EXTINF:-1 tvg-id="166" tvg-chno="612" tvg-name="kappa-tv" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/kappa-tv.png" group-title="Music", Kappa TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=YuppTV/7.18.1 (Linux;Android 16) ExoPlayerLib/2.19.1
+https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8?hdnts=st%3D1749692670~exp%3D1749714270~acl%3D%21%2A%2F080823%2Fkappatv%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_166_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_166_-1~hmac%3Da15b8b3fd28c2381d1184a28fcef1edb768941ce1f65b7b88906f7fd9be2453d
