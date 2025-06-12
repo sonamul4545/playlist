@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 tvg-name="MD SONAMULHAQSIYAM" tvg-logo="https://i.ibb.co/7tpT74bX/Screenshot-2025-06-12-20-55-23-942-com-cricfy-tv-edit.jpg" group-title="MD SONAMULHAQSIYAM",MD SONAMULHAQSIYAM
-https://api.mp4.to/static/downloads/b1e0868e-5802-4fdc-b0d0-16be1a70ff3d/lv_0_20250612224231.m3u8
+https://store-screenapp-production.storage.googleapis.com/vid/684ad903d8d688321d77509b/091355a8-7da6-40aa-b358-d9663c22751d.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EINEQV5X2QGY62PSZMBMUR7IGGVLKNDB6ABP5GL6O6FKO76DWA2IE3SB%2F20250612%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250612T164551Z&X-Amz-Expires=604800&X-Amz-Signature=73a41bf05b2b4d8addf7ec68bc822c94006d3e7fbe8688d5248c9482d272cb46&X-Amz-SignedHeaders=host&response-content-type=attachment%3B%20filename%3D%22091355a8-7da6-40aa-b358-d9663c22751d.mp4%22%3B%20filename%2A%3D%20UTF-8%27%27lv_0_20250612224231.mp4%3B
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
