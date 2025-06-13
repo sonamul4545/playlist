@@ -1111,4 +1111,7 @@ https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f5
 
 
 
+#EXTM3U
+#EXTINF:1 tvg-name="tv" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/refs/heads/main/opplex.m3u8" group-title="tv",tv
 https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/refs/heads/main/opplex.m3u8
+
