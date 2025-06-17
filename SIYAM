@@ -1109,9 +1109,3 @@ https://livestream5.sunnxt.com/2699d3c42a1944d9bb8e919433a349c2/SunMarathiB_AU_i
 https://streams2.sofast.tv/ptnr-yupptv/title-Ric_Plus/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/42997d52-337b-4fbe-8693-aa8605f5cfab/master.m3u8?hdnts=st%3D1749692670~exp%3D1749714270~acl%3D%21%2A%2Fptnr-yupptv%2Ftitle-Ric_Plus%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F42997d52-337b-4fbe-8693-aa8605f5cfab%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_289_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_20.42.50.116_yuppfast_2_channel_289_-1~hmac%3D8715fb73dc2fbadf093fef8d193c8eba470905eda123be6313bbce091cbbecc4
 
 
-
-
-#EXTM3U
-#EXTINF:1 tvg-name="tv" tvg-logo="https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/refs/heads/main/opplex.m3u8" group-title="tv",tv
-https://raw.githubusercontent.com/tamzidazam/dotinternet-iptv/refs/heads/main/opplex.m3u8
-
