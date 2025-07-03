@@ -643,9 +643,6 @@ https://otttv.co.in/d2h/livestream/zoom/manifest.mpd"
  https://raw.githubusercontent.com/MohammadJoyChy/MohammadJoyChy/refs/heads/main/Dishtv#:~:text=%23EXTM3U%0A%23EXTINF%3A%2D1,zoom/manifest.mpd
 #EXTINF:1 tvg-name="Masti" tvg-logo="https://yt3.googleusercontent.com/yqiviPE363qvacA0g94Wz6_5Wi-OrApWhG-V3fGCbd1MudonVR0NV1FUrI7lvjCuCtJ3ytslr08=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Masti
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
-#EXTM3U
-#EXTINF:1 tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="News",Channel I HD
-https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
 
 
 SONY LIV
