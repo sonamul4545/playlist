@@ -165,7 +165,7 @@ https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/018a70f5-c9eb-4625-814a-784f95a10580.jpg" group-title="Islam Channel",HILLAL TV 📺
 https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="kids",SONY AATH 📺
+#EXTINF:1 tvg-name="GOPAL BHAR" tvg-logo="https://i.ibb.co/tMSJBJHB/IMG-20250703-214307-751.jpg" group-title="kids",GOPAL BHAR 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="kids",CHUMBAK TV 📺 (PISHOW)
 https://cdn-1.pishow.tv/live/1451/master.m3u8
