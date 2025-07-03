@@ -167,7 +167,7 @@ https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
 https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" group-title="kids",SONY AATH 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="kids",CHUMBAK TV 📺 (kids)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/vvcckpkW/4d9f95ffa96d.jpg" group-title="kids",CHUMBAK TV 📺 (PISHOW)
 https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s3.aynaott.com/storage/53b61525cccd385419ef395273f66077" group-title="kids",CARTOON NETWORK 📺
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
