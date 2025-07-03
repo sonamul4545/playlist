@@ -252,13 +252,15 @@ https://otttv.co.in/d2h/livestream/dd-bharati/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/dd-national/drmLicense
 https://otttv.co.in/d2h/livestream/dd-national/manifest.mpd
-#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery Hindi
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
+#EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery Bangla
+https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/uzbawq.png" tvg-chno="discovery-kids" group-title="Kids",Discovery Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
