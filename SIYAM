@@ -97,6 +97,9 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="Pakistan Discovery" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/discoverpakistan.jpg" group-title="JAGOBD",Discovery Pakistan 📺 (JAGOBD)
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="ENTERTAINMENT",Sananda Tv 📺 (JAGOBD)
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
+
 
 
 ISLAMIC CHANNEL
@@ -196,33 +199,33 @@ ENTERTAINMENT
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="ENTERTAINMENT",Enter10Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="ENTERTAINMENT",Enter10Bangla 📡 (ENTERTAINMENT)
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="ENTERTAINMENT",Tara Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="ENTERTAINMENT",Tara Tv 📡 (ENTERTAINMENT)
 http://103.145.48.150:90/laosat24/taratv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/g4rX32X/images-29.jpg" group-title="ENTERTAINMENT",Mon tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/g4rX32X/images-29.jpg" group-title="ENTERTAINMENT",Mon tv 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="ENTERTAINMENT",Sananda Tv
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="ENTERTAINMENT",Bangla +
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="ENTERTAINMENT",Sananda Tv 📡 (ENTERTAINMENT)
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="ENTERTAINMENT",Bangla + 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="ENTERTAINMENT",Amar Digita
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="ENTERTAINMENT",Amar Digita 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="ENTERTAINMENT",Amar Bangla
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="ENTERTAINMENT",Amar Bangla 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="ENTERTAINMENT",SONY AATH 📡
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="ENTERTAINMENT",SONY AATH 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="ENTERTAINMENT",SONY AATH01 📡
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="ENTERTAINMENT",SONY AATH01 📡 (ENTERTAINMENT)
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ENTERTAINMENT",Zee Bangla 📡
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ENTERTAINMENT",Zee Bangla 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ENTERTAINMENT",Zee Bangla01 📡
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="ENTERTAINMENT",Zee Bangla01 📡 (ENTERTAINMENT)
 http://kst.moonplex.net:8080/CH4/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="ENTERTAINMENT",COLORS BANGLA 📡
+#EXTINF:-1 tvg-id="" tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="ENTERTAINMENT",COLORS BANGLA 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="ENTERTAINMENT",Jalsha Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="ENTERTAINMENT",Jalsha Movies 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="ENTERTAINMENT",Zee Bangla Cinema 📡
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="ENTERTAINMENT",Zee Bangla Cinema 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 
 
