@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7tpT74bX/Screenshot-2025-06-12-20-55-23-942-com-cricfy-tv-edit.jpg" group-title="",MD.SONAMUL HAQ SIYAM
-https://store-screenapp-production.storage.googleapis.com/vid/684ad903d8d688321d77509b/091355a8-7da6-40aa-b358-d9663c22751d.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EINEQV5X2QGY62PSZMBMUR7IGGVLKNDB6ABP5GL6O6FKO76DWA2IE3SB%2F20250612%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250612T164551Z&X-Amz-Expires=604800&X-Amz-Signature=73a41bf05b2b4d8addf7ec68bc822c94006d3e7fbe8688d5248c9482d272cb46&X-Amz-SignedHeaders=host&response-content-type=attachment%3B%20filename%3D%22091355a8-7da6-40aa-b358-d9663c22751d.mp4%22%3B%20filename%2A%3D%20UTF-8%27%27lv_0_20250612224231.mp4%3B
+#https://store-screenapp-production.storage.googleapis.com/vid/684ad903d8d688321d77509b/091355a8-7da6-40aa-b358-d9663c22751d.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=GOOG1EINEQV5X2QGY62PSZMBMUR7IGGVLKNDB6ABP5GL6O6FKO76DWA2IE3SB%2F20250612%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20250612T164551Z&X-Amz-Expires=604800&X-Amz-Signature=73a41bf05b2b4d8addf7ec68bc822c94006d3e7fbe8688d5248c9482d272cb46&X-Amz-SignedHeaders=host&response-content-type=attachment%3B%20filename%3D%22091355a8-7da6-40aa-b358-d9663c22751d.mp4%22%3B%20filename%2A%3D%20UTF-8%27%27lv_0_20250612224231.mp4%3B
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/958b036d-157f-4906-b906-c41a68e0416d.jpg" group-title="Islam Channel",ওয়াজ মাহফিল 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
@@ -92,7 +92,7 @@ https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="BANGLADESH",Makka Live 📺 (JAGOBD)
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="zoom" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" group-title="music",Zoom 📺 (JAGOBD)
+#EXTINF:1 tvg-name="zoom" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" group-title="Music",Zoom 📺 (JAGOBD)
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="Pakistan Discovery" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/discoverpakistan.jpg" group-title="BANGLADESH",Discovery Pakistan 📺 (JAGOBD)
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/tracks-v1a1/mono.ts.m3u8|referer=https://www.jagobd.com
@@ -847,13 +847,13 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 Music
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="MUSIC",SANGEET BANGLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA
 https://cdn-4.pishow.tv/live/1143/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/SKSZpv9/images-4.jpg" group-title="MUSIC",Arabic Song
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/SKSZpv9/images-4.jpg" group-title="Music",Arabic Song
 https://mbc1-enc.edgenextcdn.net/out/v1/90143f040feb40589d18c57863d9e829/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="MUSIC",9XM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PWs3RPy/20240803-105114.png" group-title="Music",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/c8939874-787e-41ae-8d35-f5ea6e15720d/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="MUSIC",YRF MUSIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
 
@@ -921,7 +921,7 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67c89c29183b1100b837aee1
 #EXTINF:-1 tvg-id="104" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/818501230.png" group-title="Music",PTC MUSIC 📺 (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=682d9805f8e23aa655dcde8b
-#EXTINF:1 tvg-name="ZR Music" tvg-logo="https://i.ibb.co/VpBRLY5n/Screenshot-2025-07-04-15-43-31-969-mark-via-gp-edit.jpg" group-title="music",ZR Music 📺
+#EXTINF:1 tvg-name="ZR Music" tvg-logo="https://i.ibb.co/VpBRLY5n/Screenshot-2025-07-04-15-43-31-969-mark-via-gp-edit.jpg" group-title="Music",ZR Music 📺
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA 📺
 https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
