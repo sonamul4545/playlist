@@ -190,6 +190,44 @@ https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/manifest/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/fe320f6f-fbc4-4b81-8549-1f7a5ff71ca0/0.m3u8
 
 
+
+INTERTAINMENT
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9tN6nT7/100000.jpg" group-title="INTERTAINMENT",Enter10Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q97X828/Tara-TV.png" group-title="INTERTAINMENT",Tara Tv
+http://103.145.48.150:90/laosat24/taratv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/g4rX32X/images-29.jpg" group-title="INTERTAINMENT",Mon tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="INTERTAINMENT",Sananda Tv
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="INTERTAINMENT",Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="INTERTAINMENT",Amar Digita
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="INTERTAINMENT",Amar Bangla
+https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="INTERTAINMENT",SONY AATH 📡
+https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="INTERTAINMENT",SONY AATH01 📡
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="INTERTAINMENT",Zee Bangla 📡
+https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/9q7sqGx/zee-bangla.jpg" group-title="INTERTAINMENT",Zee Bangla01 📡
+http://kst.moonplex.net:8080/CH4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://appstv.bdixbd.net/images/60058_Colors TV HD1664974042.png" group-title="INTERTAINMENT",COLORS BANGLA 📡
+https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/HxrF3hT/jalsha-mmmm.jpg" group-title="INTERTAINMENT",Jalsha Movies
+https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="INTERTAINMENT",Zee Bangla Cinema 📡
+https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
+
+
+
+
 Livestream
 
 
@@ -879,6 +917,9 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=682d9805f8e23aa655dcde8b
 #EXTINF:1 tvg-name="ZR Music" tvg-logo="https://i.ibb.co/VpBRLY5n/Screenshot-2025-07-04-15-43-31-969-mark-via-gp-edit.jpg" group-title="music",ZR Music 📺
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA 📺
+https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
+
 
 
 
