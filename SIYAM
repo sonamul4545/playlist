@@ -318,7 +318,7 @@ https://otttv.co.in/d2h/livestream/dd-national/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://otttv.co.in/d2h/livestream/discovery-channel/drmLicense
 https://otttv.co.in/d2h/livestream/discovery-channel/manifest.mpd
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",Discovery Bangla 📺📡
-https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/98.m3u8
 #EXTINF:-1 tvg-id="discovery-kids" tvg-name="Discovery Kids" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/uzbawq.png" tvg-chno="discovery-kids" group-title="Kids",Discovery Kids
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -936,3 +936,9 @@ https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
 
 
 
+kids
+
+
+
+#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/mV1zrPd8/Nick-Bangla.png" group-title="kids",Nick bangla
+http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
