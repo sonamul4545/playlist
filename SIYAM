@@ -942,3 +942,84 @@ kids
 
 #EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/mV1zrPd8/Nick-Bangla.png" group-title="kids",Nick bangla
 http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
+
+
+Tiger 🐯 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Madni-TV-mjunoon.webp" group-title="Islamic",Madani Channel
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Quran-Tv-mjunoon.webp" group-title="Islamic",Quran Tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxehewjFnG9fs8gbCLbrIlBdpV74TnFWbMzg&s" group-title="Islamic",Sunnah tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Binoria-Media.webp" group-title="Islamic",Binoria media
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/brlivetransmit/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/samaa-tv-mjunoon.webp" group-title="News",Samaa Tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Abb-Takk-mjunoon.webp" group-title="News",Abb Takk
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/AbbTakNews-133/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/abn-news-live-mjunoon.webp" group-title="News",ABN News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/News-one-mjunoon.webp" group-title="News",News One
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Neo-News-logo-mjunoon.webp" group-title="News",Neo News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/cnn-news-logo-mjunoon.webp" group-title="News",CNN
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cnn-86/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Lahore-Rang-mjunoon.webp" group-title="News",Lahore Rang
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/lhrrang-179/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/K-21-news-mjunoon.webp" group-title="News",K21 news
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/K21News-116/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/DW-Logo-mjunoon.webp" group-title="News",DW
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/DW-136-4A/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Khabar-news-mjunoon.webp" group-title="News",Khabar News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/KhyberNews-160/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/gnn.webp" group-title="News",GNN
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/gnnnews-181/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/aljazeera-mjunoon.webp" group-title="News",Al Jazeera
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/aljazeera-148/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/times_news-mjunoon.webp" group-title="News",Time News
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/time-news-172/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/TRT-World-mjunoon.webp" group-title="News",TRT World
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/TRTENG-153/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Urdu-1-mjunoon.webp" group-title="Entertainment",Urdu 1
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Urdu1-158-4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Tvone-mjunoon.webp" group-title="Entertainment",TV one
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/TV1-129/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/SEE-Tv-mjunoon.webp" group-title="Entertainment",SEE Tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SeeTV-156/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Apna-mjunoon.webp" group-title="Entertainment",Apna TV
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/ApnaChannel-134/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/movie-one-mjunoon.webp" group-title="Entertainment",Movie one
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/movie-one-176/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/8xm-mjunoon.webp" group-title="Music",8XM
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Jalwa-mjunoon.webp" group-title="Music",Jalwa
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Kashish-mjunoon.webp" group-title="Music",Kashish TV
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Kashish-150/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Kay2-mjunoon.webp" group-title="Music",Kay 2
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/KAY2-127/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/cartoon-network-logo-mjunoon.webp" group-title="kids",Cartoon Network
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/animal-planet-logo.webp" group-title="kids",Animal planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/champion-tv-mjunoon.webp" group-title="kids",Champion TV
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/champion-177/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/KTN-news-mjunoon.webp" group-title="Regional",KTN news
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Khaber-mjunoon.webp" group-title="Regional",Khaber Tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/AVTKhyber-114/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/KTN-mjunoon.webp" group-title="Regional",KTN
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/KTN-149/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Pashto1-mjunoon.webp" group-title="Regional",HUM pashto 1
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/PASHTOTV-119/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Afghan-mjunoon.webp" group-title="Regional",Afgan tv
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/AfghanTV-140/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Waseb-mjunoon.webp" group-title="Regional",Waseb TV
+https://vodzong.mjunoon.tv:8087/streamtest/WASEB-130/playlist.m3u8
+
