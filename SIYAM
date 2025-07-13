@@ -245,7 +245,7 @@ https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movies.png" group-title="Entertainment",Jalsha Movies 📡 (ENTERTAINMENT)
 #http://tv.bdiptv.store/live/restreax/refstream/81.m3u8
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/804/logo/240x240/mobile_logo_370803001655891689.png" group-title="Entertainment",Zee Bangla Cinema 📡 (ENTERTAINMENT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zq2VSV6/sddefault.jpg" group-title="Entertainment",Zee Bangla Cinema 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 
 
