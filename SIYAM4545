@@ -351,37 +351,37 @@ SONY LIV Tiger 🐯
 
 
 
-#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony Entertainment
+#EXTINF:-1 tvg-id="sony-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" group-title="Entertainment",Sony Entertainment
 https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="Entertainment",Sony SAB HD
+#EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bipvli.png" group-title="Entertainment",Sony SAB HD
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="Entertainment",Sony Pal
+#EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" group-title="Entertainment",Sony Pal
 https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
-#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="Entertainment",Sony Aath
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",Sony Aath
 https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="Entertainment",Sony Entertainment uk
+#EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" group-title="Entertainment",Sony Entertainment uk
 https://tiger-hub.vercel.app/SONY/EntertainmentUK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="Kids",Sony Yay
+#EXTINF:-1 tvg-id="sony-yay" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/npnyqn.png" group-title="Kids",Sony Yay
 https://tiger-hub.vercel.app/SONY/YAY/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="Movies",Sony MAX HD
+#EXTINF:-1 tvg-id="sony-max-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tpjeqj.png" group-title="Movies",Sony MAX HD
 https://tiger-hub.vercel.app/SONY/MaxUK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png" group-title="Movies",Sony MAX
+#EXTINF:-1 tvg-id="sony-max" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/rlvkwc.png" group-title="Movies",Sony MAX
 https://tiger-hub.vercel.app/SONY/Max/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="Movies",Sony MAX 2
+#EXTINF:-1 tvg-id="sony-max-2" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/babgov.png" group-title="Movies",Sony MAX 2
 https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="Movies",Sony WAH
+#EXTINF:-1 tvg-id="sony-wah" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ctetuk.png" group-title="Movies",Sony WAH
 https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Movies",Sony PIX HD
+#EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" group-title="Movies",Sony PIX HD
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth HD
+#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" group-title="Infotainment",Sony BBC Earth HD
 https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Infotainment",Sony BBC Earth English 
+#EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" group-title="Infotainment",Sony BBC Earth English 
 https://tiger-hub.vercel.app/SONY/BBC-Earth-Eng/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 1
+#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vavnvm.png" group-title="Sports",Sony Sports Ten 1
 https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 2
+#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vcbjdy.png" group-title="Sports",Sony Sports Ten 2
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony Sports Ten 5
+#EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dasenw.png" group-title="Sports",Sony Sports Ten 5
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="SONYLIV",Sony KAL(Sonyliv)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
