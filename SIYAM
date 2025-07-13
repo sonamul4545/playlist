@@ -719,7 +719,11 @@ https://otttv.co.in/d2h/livestream/zoom/manifest.mpd"
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 
 
-SONY LIV
+
+
+SONY LIV Tiger 🐯 
+
+
 
 
 
@@ -757,6 +761,8 @@ https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="SONYLIV",Sony KAL(Sonyliv)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+
 
 
 
@@ -860,7 +866,7 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 
 
 
-Music
+Music 🎶 
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA
@@ -872,6 +878,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Fg11rTg/20240813-112536.png" group-title="Music",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 
+Pishow music 🎵 
 
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/695735787.jpeg" group-title="Music",E24 📺 (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=62ecf2773e6cd595da3088a2
@@ -951,6 +958,8 @@ kids
 
 #EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/mV1zrPd8/Nick-Bangla.png" group-title="kids",Nick bangla
 http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
+
+
 
 
 Tiger 🐯 
