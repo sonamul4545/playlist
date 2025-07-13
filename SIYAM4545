@@ -103,11 +103,18 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:1 tvg-name="BTV CTG 📺 (JAGOBD)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442" group-title="BANGLADESH",BTV CTG 📺 (JAGOBD)
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8|referer=https://www.jagobd.com
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="BANGLADESH",Asian TV 📺 (JAGOBD)
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com
 
+
+
+Kids
+
+
+#EXTINF:1 tvg-name="SRKTV BANGLA 📺" tvg-logo="https://i.ibb.co/VYS3Fbtj/images-8.jpg" group-title="Kids",SRKTV BANGLA 📺
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/Mk0FfJ6q/images-9.jpg" group-title="kids",Nick bangla
+http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
 
 
 ISLAMIC CHANNEL
@@ -572,14 +579,6 @@ https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Sangeet-Bangla/tracks-v1a1/mono.ts.m3u8
 
 
-
-
-kids
-
-
-
-#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/mV1zrPd8/Nick-Bangla.png" group-title="kids",Nick bangla
-http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
 
 
 
