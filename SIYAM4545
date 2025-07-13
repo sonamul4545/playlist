@@ -559,8 +559,6 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=650e04d29e3062fa5191ef07
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/738780686.jpeg" group-title="Music",Global Desi 📺 (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67b24e9caa6e9b448321caad
-#EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1257.jpg" group-title="Music",7S MUSIC 📺 (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c35f3659eebe8f0fe8a
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-433.png" group-title="Music",MK TUNES 📺 (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c28f3659eebe8f0fdc4
 #EXTINF:-1 tvg-id="101" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/pishow-1253.png" group-title="Music",MK SIX 📺 (Pishow)
@@ -585,8 +583,6 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67c89c28183b1100b837aec9
 #EXTINF:-1 tvg-id="104" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/PBha-10651.jpg" group-title="Music",MASTI 📺 (Pishow)
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67c89c29183b1100b837aee1
-#EXTINF:-1 tvg-id="104" tvg-logo="https://s3.ap-south-1.amazonaws.com/media.playboxtv.in/content/liveTv/818501230.png" group-title="Music",PTC MUSIC 📺 (Pishow)
-https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=682d9805f8e23aa655dcde8b
 #EXTINF:1 tvg-name="ZR Music" tvg-logo="https://i.ibb.co/VpBRLY5n/Screenshot-2025-07-04-15-43-31-969-mark-via-gp-edit.jpg" group-title="Music",ZR Music 📺
 https://server.zillarbarta.com/zbmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA 📺
