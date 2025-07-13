@@ -227,9 +227,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/q7G6FTz/bp-image.png" group-title="Entertainment",Bangla + 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Entertainment",Amar Digita 📡 (ENTERTAINMENT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/zh6zqdzZ/aamar-digital.png" group-title="Entertainment",Amar Digita 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CPmLfGs/Amar-Bangla.png" group-title="Entertainment",Amar Bangla 📡 (ENTERTAINMENT)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BKdxVYhb/images-6.jpg" group-title="Entertainment",Amar Bangla 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",SONY AATH 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
