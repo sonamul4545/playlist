@@ -498,6 +498,16 @@ Music 🎶
 
 
 
+#EXTINF:1 tvg-name="YRF Music🎶" tvg-logo="https://i.ibb.co/bMfY7W4z/YRF-Music.png" group-title="Music",YRF Music🎶
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:1 tvg-name="Zoo Music 🎵" tvg-logo="https://i.ibb.co/5zdmMZC/images-2.png" group-title="Music",Zoo Music 🎵
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:1 tvg-name="Show box music🎵" tvg-logo="https://i.ibb.co/4nf2BWXf/images-11.jpg" group-title="Music",Show box music🎵
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:1 tvg-name="T play Hindi Song🎵" tvg-logo="https://i.ibb.co/1YBkLjXf/images-12.jpg" group-title="Music",T play Hindi Song🎵
+https://cloudfrontnet.vercel.app/tplay/playout/209592/master.m3u8
+#EXTINF:1 tvg-name="T Play Bangla music🎵" tvg-logo="https://i.ibb.co/PvvR1KVW/download-6.jpg" group-title="Music",T Play Bangla music🎵
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 #EXTINF:1 tvg-name="Masti" tvg-logo="https://yt3.googleusercontent.com/yqiviPE363qvacA0g94Wz6_5Wi-OrApWhG-V3fGCbd1MudonVR0NV1FUrI7lvjCuCtJ3ytslr08=s900-c-k-c0x00ffffff-no-rj" group-title="Music",Masti
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/b1nCFvF/20240803-103853.png" group-title="Music",SANGEET BANGLA
