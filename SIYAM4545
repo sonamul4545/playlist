@@ -238,11 +238,12 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/BKdxVYhb/images-6.jpg" group-title="Entertainment",Amar Bangla 📡 (ENTERTAINMENT)
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
+#EXTINF:1 tvg-name="Probasi Tv" tvg-logo="https://i.ibb.co/sZMZsJm/images-10.jpg" group-title="Entertainment",Probasi Tv 📡 (ENTERTAINMENT)
+http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",SONY AATH 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CKrc2czw/images.jpg" group-title="Entertainment",SONY AATH01 📡 (ENTERTAINMENT)
-#http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
-http://38.96.178.201/live/SonyAath/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6641/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Z6NWDLQK/download-5.jpg" group-title="Entertainment",Zee Bangla 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PZjdg6sL/images-5.jpg" group-title="Entertainment",Zee Bangla01 📡 (ENTERTAINMENT)
