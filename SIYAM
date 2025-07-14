@@ -227,7 +227,7 @@ https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/cartoon-network-
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/champion-tv-mjunoon.webp" group-title="Kids",Champion TV 📺
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/champion-177/playlist.m3u8
-#EXTINF:1 tvg-name="Discovery Kids 1" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery Kids 1
+#EXTINF:1 tvg-name="Discovery Kids 1" tvg-logo="https://i.ibb.co/zj3yKwW/images-1.jpg" group-title="Kids",Discovery Kids 1
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_554.m3u8
 
 
@@ -446,7 +446,7 @@ https://tiger-hub.vercel.app/National-Geographic_Bangla/tracks-v1a1/mono.ts.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=601f58d4b7094d2baf78c85d1d9cb6c9:609e0cc03198455fa36fd2cc3e7f940d
-#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/uzbawq.png" group-title="Kids", Discovery Kids
+#EXTINF:-1 tvg-id="discovery-kids" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/uzbawq.png" group-title="Kids", Discovery Kids 2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoverykids2/default/manifest.mpd
 
 
