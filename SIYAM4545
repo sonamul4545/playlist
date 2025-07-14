@@ -162,7 +162,8 @@ https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/0VY5V7wd/download.png" group-title="Islam Channel",AZAN TV 📺 (JAGOBD)
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/azantv.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="Islam Channel",MADANI CHANNEL 📺
-https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
+#https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/madanimhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="Islam Channel",MADINA 📺
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/2109eaa2-edd1-48fc-bf64-6f0fa161e734.webp" group-title="Islam Channel",ISLAM TV 📺
