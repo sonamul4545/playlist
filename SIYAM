@@ -348,6 +348,8 @@ https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b
 https://playboxtv.developed-for-pishow.workers.dev/wanda.m3u8?token=2ccbc8-2bd5b7-51c678-6e6082&id=67343c3cf3659eebe8f0ff1f
 #EXTINF:1 tvg-name="Colors HD" tvg-logo="https://i.ibb.co/MyhYQF75/images-1.jpg" group-title="Entertainment",Colors HD 📡 (ENTERTAINMENT)
 http://103.120.172.74:1150
+#EXTINF:1 tvg-name="Colors Cineplex Superhit" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Entertainment",Colors Cineplex Superhit
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1450.m3u8
 #EXTINF:1 tvg-name="Akash Aath" tvg-logo="https://i.ibb.co/SDcMz8J8/images-2.jpg" group-title="Entertainment",Akash Aath 📡 (ENTERTAINMENT)
 https://cdn-4.pishow.tv/live/969/master.m3u8
 #EXTINF:1 tvg-name="Sony Sab" tvg-logo="https://i.ibb.co/HT8rNTg0/images.png" group-title="Entertainment",Sony Sab 📡 (ENTERTAINMENT)
