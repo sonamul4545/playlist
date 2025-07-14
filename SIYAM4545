@@ -240,6 +240,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:1 tvg-name="Probasi Tv" tvg-logo="https://i.ibb.co/sZMZsJm/images-10.jpg" group-title="Entertainment",Probasi Tv 📡 (ENTERTAINMENT)
 http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
+#EXTINF:1 tvg-name="Express TV" tvg-logo="https://i.ibb.co/jvq6zhgf/download-7.jpg" group-title="Entertainment",Express TV 📡 (ENTERTAINMENT)
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6727/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",SONY AATH 📡 (ENTERTAINMENT)
 https://tiger-hub.vercel.app/Sony-aath/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/CKrc2czw/images.jpg" group-title="Entertainment",SONY AATH01 📡 (ENTERTAINMENT)
@@ -327,11 +329,8 @@ https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zee-business" tvg-name="Zee Business" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yyggwd.png" tvg-chno="zee-business" group-title="News",Zee Business
 
 #EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema
-https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zee-cinemalu" tvg-name="Zee Cinemalu" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/mzmazx.png" tvg-chno="zee-cinemalu" group-title="Movies",Zee Cinemalu
-
-#EXTINF:-1 tvg-id="zee-kannada" tvg-name="Zee Kannada" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bhqvrx.png" tvg-chno="zee-kannada" group-title="Entertainment",Zee Kannada
-
+#https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6708/index.m3u8
 #EXTINF:-1 tvg-id="zee-news" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tefpyz.png" tvg-chno="zee-news" group-title="News",Zee News
 
 #EXTINF:-1 tvg-id="zee-sarthak" tvg-name="Zee Sarthak" tvg-language="Odia" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" tvg-chno="zee-sarthak" group-title="News",Zee Sarthak
@@ -360,7 +359,8 @@ https://tiger-hub.vercel.app/SONY/Entertainment/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bipvli.png" group-title="Entertainment",Sony SAB HD
 https://tiger-hub.vercel.app/SONY/SAB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pal" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/udytjy.png" group-title="Entertainment",Sony Pal
-https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6626/index.m3u8
 #EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://i.ibb.co/PMRGhZT/20240803-102021.png" group-title="Entertainment",Sony Aath
 https://tiger-hub.vercel.app/SONY/Aath/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dfereb.png" group-title="Entertainment",Sony Entertainment uk
