@@ -114,7 +114,7 @@ Kids
 
 #EXTINF:1 tvg-name="SRKTV BANGLA 📺" tvg-logo="https://i.ibb.co/VYS3Fbtj/images-8.jpg" group-title="Kids",SRKTV BANGLA 📺
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/Mk0FfJ6q/images-9.jpg" group-title="Kids",Nick bangla
+#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/Mk0FfJ6q/images-9.jpg" group-title="Kids",Nick Bangla 📺
 http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
 #EXTINF:1 tvg-name="GOPAL BHAR" tvg-logo="https://i.ibb.co/tMSJBJHB/IMG-20250703-214307-751.jpg" group-title="Kids",GOPAL BHAR 📺
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
