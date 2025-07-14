@@ -425,6 +425,11 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_575.m3u8
 #http://tv.bdiptv.store/live/restreax/refstream/98.m3u8
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
 
+
+#EXTINF:1 tvg-name="Animal Planet Hindi" tvg-logo="https://i.ibb.co/Kjqfp8Nd/images-2.jpg" group-title="Infotainment",Animal Planet Hindi
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_566.m3u8
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 #EXTINF:-1 tvg-id="discovery-science" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" group-title="Infotainment", Discovery Science
