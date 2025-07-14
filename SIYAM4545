@@ -387,7 +387,7 @@ https://tiger-hub.vercel.app/SONY/Sports-1/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/dasenw.png" group-title="Sports",Sony Sports Ten 5
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="SONYLIV",Sony KAL(Sonyliv)
+#EXTINF:-1 tvg-id="sony-kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Entertainment",Sony KAL(Sonyliv)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 
@@ -599,13 +599,13 @@ Tiger 🐯
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Madni-TV-mjunoon.webp" group-title="Islamic",Madani Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Madni-TV-mjunoon.webp" group-title="Islam Channel",Madani Channel
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Madni-121/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Quran-Tv-mjunoon.webp" group-title="Islamic",Quran Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Quran-Tv-mjunoon.webp" group-title="Islam Channel",Quran Tv
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiQuran-142/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxehewjFnG9fs8gbCLbrIlBdpV74TnFWbMzg&s" group-title="Islamic",Sunnah tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxehewjFnG9fs8gbCLbrIlBdpV74TnFWbMzg&s" group-title="Islam Channel",Sunnah tv
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SaudiSunnah-141/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Binoria-Media.webp" group-title="Islamic",Binoria media
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/Binoria-Media.webp" group-title="Islam Channel",Binoria media
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/brlivetransmit/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.mjunoon.tv:8181/logo/samaa-tv-mjunoon.webp" group-title="News",Samaa Tv
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
