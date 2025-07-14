@@ -380,7 +380,8 @@ https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Zi-ng_/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zoom" tvg-name="Zoom" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/fcnotp.png" tvg-chno="zoom" group-title="Music",Zoom
 https://tiger-hub.vercel.app/Zoom-_-TV/tracks-v1a1/mono.ts.m3u8
-
+#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/TV9_Bharatvarsh.png" group-title="News", TV9 Bharatvarsh
+https://vg-tv9live.akamaized.net/v1/vglive-sk-301666/main.m3u8
 
 
 
@@ -426,17 +427,14 @@ https://tiger-hub.vercel.app/SONY/Sports-2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Sports-5/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-kal" tvg-logo="https://i.postimg.cc/ZqnmcXdx/Sony-KAL.png" group-title="Entertainment",Sony KAL(Sonyliv)
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-logo="https://i.ibb.co/2dwmRgM/Sun-NXT-logo-small.png" tvg-id="" tvg-language="Hindi" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/400/-/TV9_Bharatvarsh.png" group-title="SunNxt", TV9 Bharatvarsh
-https://vg-tv9live.akamaized.net/v1/vglive-sk-301666/main.m3u8  
+  
 
 
 
 
 PISHOW TV
+
+
 
 
 
