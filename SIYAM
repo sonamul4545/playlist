@@ -358,8 +358,8 @@ https://tiger-hub.vercel.app/Zee::Anmol_/tracks-v1a1/mono.ts.m3u8
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1752497526~acl=%2f*~data=hdntl~hmac=a6971717ea7731f234922962330c566330b9bdd197a029a0a137b0cf92e09ea6
 
 #EXTINF:-1 tvg-id="zee-Anmol-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
-#https://tiger-hub.vercel.app/Zee__anmoL-Cinema_/tracks-v1a1/mono.ts.m3u8
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6637/index.m3u8
+#http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6637/index.m3u8
+https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zee-bollywood" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-bollywood.png" tvg-chno="zee-bollywood" group-title="Movies",Zee Bollywood
 
 #EXTINF:-1 tvg-id="zee-business" tvg-name="Zee Business" tvg-language="English" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yyggwd.png" tvg-chno="zee-business" group-title="News",Zee Business
