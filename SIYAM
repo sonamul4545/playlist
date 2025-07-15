@@ -546,8 +546,6 @@ https://tiger-hub.vercel.app/SONY/Max2/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/SONY/Wah/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/gsxqjs.png" group-title="Movies",Sony PIX HD
 https://tiger-hub.vercel.app/SONY/Pix/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" group-title="Infotainment",Sony BBC Earth HD
-https://tiger-hub.vercel.app/SONY/BBC_Earth/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/izuevu.png" group-title="Infotainment",Sony BBC Earth English 
 https://tiger-hub.vercel.app/SONY/BBC-Earth-Eng/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/vavnvm.png" group-title="Sports",Sony Sports Ten 1
