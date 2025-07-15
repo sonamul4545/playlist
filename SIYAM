@@ -517,6 +517,18 @@ https://vg-tv9live.akamaized.net/v1/vglive-sk-301666/main.m3u8
 
 
 
+#EXTINF:1 tvg-name="Discovery HD World" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="Infotainment",Discovery HD World
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_463.m3u8
+#EXTINF:1 tvg-name="History TV18 HD Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Infotainment",History TV18 HD Hindi
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_578.m3u8
+#EXTINF:1 tvg-name="Wild Earth" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment",Wild Earth
+https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_2437.m3u8
+
+
+
+
+
+
 
 SONY LIV Tiger 🐯 
 
