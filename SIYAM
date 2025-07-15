@@ -467,12 +467,8 @@ https://tiger-hub.vercel.app/Sangeet-bhojpuri/tracks-v1a1/mono.m3u8
 https://tiger-hub.vercel.app/Zee--_action-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zee-anmol" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/odeyvg.png" tvg-chno="zee-anmol" group-title="Entertainment",Zee Anmol
 https://tiger-hub.vercel.app/Zee::Anmol_/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ralgkp.png" tvg-chno="zee-bangla" group-title="Entertainment",Zee Bangla
-
-#EXTINF:-1 tvg-id="0-9-9z5383484" group-title="Entertainment" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ralgkp.png",Zee Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105260/ZeeBanglaELE/master.m3u8?hdntl=exp=1752497526~acl=%2f*~data=hdntl~hmac=a6971717ea7731f234922962330c566330b9bdd197a029a0a137b0cf92e09ea6
-
+#EXTINF:-1 tvg-id="zee-bangla" tvg-name="Zee Bangla" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ralgkp.png" tvg-chno="zee-bangla" group-title="Entertainment",Zee Bangla 📺
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 #EXTINF:-1 tvg-id="zee-Anmol-cinema" tvg-name="Zee Bangla Cinema" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/brmfgr.png" tvg-chno="zee-bangla-cinema" group-title="Movies",Zee Bangla Cinema
 #http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6637/index.m3u8
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
