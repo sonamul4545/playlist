@@ -500,6 +500,14 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1669.m3u8
 
 
 
+
+
+#EXTINF:1 tvg-name="NH BollyFlix" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN46000140Q_20250521T010047SQUARE.png" group-title="Movies",NH BollyFlix
+https://jmp2.uk/sam-IN46000140Q.m3u8
+#EXTINF:1 tvg-name="The Movie Club" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN38000072R_20241211T020400SQUARE.png" group-title="Movies",The Movie Club
+https://jmp2.uk/sam-IN38000072R.m3u8
+#EXTINF:1 tvg-name="South Station" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN3800008CX_20250625T011531SQUARE.png" group-title="Movies",South Station
+https://jmp2.uk/sam-IN3800008CX.m3u8
 #EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
 https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="Entertainment",& TV (And TV)
