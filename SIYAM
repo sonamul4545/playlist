@@ -603,9 +603,9 @@ https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_463.m3u8
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_578.m3u8
 #EXTINF:1 tvg-name="Wild Earth" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png" group-title="Infotainment",Wild Earth
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_2437.m3u8
-#EXTINF:-1 tvg-id="562" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="JioTV-Lifestyle",Travelxp HD Hindi
+#EXTINF:-1 tvg-id="562" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="Infotainment",Travelxp HD Hindi
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_562.m3u8
-#EXTINF:-1 tvg-id="571" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="JioTV-Lifestyle",TLC Hindi
+#EXTINF:-1 tvg-id="571" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png" group-title="Infotainment",TLC Hindi
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_571.m3u8
 
 
