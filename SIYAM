@@ -4,205 +4,34 @@ https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
 AYNA
 
-#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="Ayna OTT", ATN Bangla
+#EXTINF:-1 tvg-id="9046949b-9847-4b5d-96c1-e82b0734444b" tvg-logo="https://s3.aynaott.com/storage/eff41809fca04f7c1da5481e135d7913" group-title="BANGLADESH", ATN Bangla
 https://tvsen5.aynascope.net/P3y2URgG7LDe/index.m3u8?e=1752770452&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=a82c4a4c39634e698726f006f6b0b4ba
-#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="Ayna OTT", ETV
+#EXTINF:-1 tvg-id="b3f0df76-15ba-4ede-a7de-bbaaf23a630e" tvg-logo="https://s3.aynaott.com/storage/8a1af81802b0728c064c2adabcdc72c8" group-title="BANGLADESH", ETV
 https://tvsen6.aynascope.net/etv/index.m3u8?e=1752770453&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=4e3344f994cac195c1e7f55f7e44fcfc
-#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="Ayna OTT", Somoy News TV
+#EXTINF:-1 tvg-id="27ec4394-7640-4dab-abf8-6a48893dfdfe" tvg-logo="https://s3.aynaott.com/storage/ece71c1163a377fbe2d93f9d28c34f60" group-title="BANGLADESH", Somoy News TV
 https://tvsen6.aynascope.net/somoytv/index.m3u8?e=1752770455&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=9cc4bc3c4caca236ee5ae243d74169e0
-#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-logo="https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb" group-title="Ayna OTT", Desh TV
+#EXTINF:-1 tvg-id="dd8c50e9-5dad-4cb9-9df8-5763e95281ad" tvg-logo="https://s3.aynaott.com/storage/d10390e5434e8cb44172257abd714beb" group-title="BANGLADESH", Desh TV
 https://tvsen6.aynascope.net/deshtv/index.m3u8?e=1752770457&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=447a2b3d93ed87f0d4018f439cf40fd6
-#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="Ayna OTT", Channel 9
+#EXTINF:-1 tvg-id="56f7abf3-1586-4f6d-9df2-1726ccb43779" tvg-logo="https://s3.aynaott.com/storage/a959f06b4fc9e1421f867b6c1601fe43" group-title="BANGLADESH", Channel 9
 https://tvsen6.aynascope.net/channel9/index.m3u8?e=1752770459&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2c583ec507c07f93c71a78b6964a6f02
-#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="Ayna OTT", Asian TV
+#EXTINF:-1 tvg-id="4d629b90-cfc2-4426-9eef-62b879efdb02" tvg-logo="https://s3.aynaott.com/storage/5282cec3a2e9349b750540d658cf1b6c" group-title="BANGLADESH", Asian TV
 https://tvsen6.aynascope.net/asiantv/index.m3u8?e=1752770460&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=2ebe10f95e0dcdad1e47f2add9990bee
-#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="Ayna OTT", SA TV
+#EXTINF:-1 tvg-id="d07563b0-7580-4cbd-a7c9-e67535c0164a" tvg-logo="https://s3.aynaott.com/storage/f710d2ff532cb7e7b75566232c5b72d3" group-title="BANGLADESH", SA TV
 https://tvsen6.aynascope.net/satv/index.m3u8?e=1752770463&u=8be812d7-3211-4694-a402-0aa09074dfc1&token=b48bf54adfbb11326de91de43e27a267
-
-JAGOBD
-
-#EXTINF:1 tvg-name="ATN MUSIC🎵" tvg-logo="https://i.ibb.co/twLFtc6V/images-1.jpg" group-title="BANGLADESH",ATN MUSIC🎵 (JAGOBD)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/somoynews-150x150.jpg?x71442" group-title="BANGLADESH",Somoy TV 📺 (JAGOBD)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT32r8EN-5z5gaRaC_IzkGk0cmJnA5lOm1eOw&s" group-title="BANGLADESH",JAMUNA 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jamuna-test-sample-ok.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/atn-bangla1.jpg?x91288" group-title="BANGLADESH",ATN 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/tracks-v1a1/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/atn-news.jpg?x91288" group-title="BANGLADESH",ATN NESW 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0n_LkV3T-XzHRkHD0KMqULQa_783ggR-r_F5fnlOdZL3V0kCLFG_FAo&s=10" group-title="BANGLADESH",Channel i 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/ekusheytv.jpg?x71442" group-title="BANGLADESH",Ekhusjey TV 📺
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/dbc-news-150x150.jpg?x59782" group-title="BANGLADESH",DBC 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288" group-title="BANGLADESH",SA TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV9GtC-NGgGLBS3mJ84Oxv3cybF7Ta6NyHuUOpivz8saRoK7NdCzOwqcU&s=10" group-title="BANGLADESH",INDEPENDENT TV📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfLXqefuqYqfbeg-ibB-N9HQjsZPKLNS2slA&s" group-title="BANGLADESH",RTV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrc1crYbc-1FSRRPcgxd-eqbKxqtDUULkJIQ&s" group-title="BANGLADESH",NTV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUcwksaX6NU0AssTITOBFGXi9qbXVYhbpPsmkCMEV88JnNYLT9TR3TEI8&s=10" group-title="BANGLADESH",NEWS 24 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" group-title="BANGLADESH",Saalam  TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/salamtvuk1.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/12/DESH-TV1-150x150.png?x59782" group-title="BANGLADESH",DESH TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg?x91288" group-title="BANGLADESH",Boishakhi TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSiG_jQRLZUIzzn_7tu7tRwc-CifzQ14hAhw&s" group-title="BANGLADESH",Ekattor  TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/bv-150x1501.jpg?x91288" group-title="BANGLADESH",Banglavishion 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYJghBvTz9mJsxJ1GIMQLuMTidXo4k0yy8_Q&s" group-title="BANGLADESH",Ekhon Tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg" group-title="BANGLADESH",Bijoy TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIpqw-fmp3P5KN6qg19ANXq61GkBNWvQTalA&s" group-title="BANGLADESH",Al Jajira English 📺
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
 #EXTINF:1 tvg-name="Deepto Tv" tvg-logo="https://i.ibb.co/v4BXVksm/IMG-20250714-233441.jpg" group-title="BANGLADESH",Deepto Tv
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/05/Medina-Live.jpg" group-title="BANGLADESH",Madina Tv Live 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/madina.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="BANGLADESH",Makka Live 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/makkah.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/11/gtv.jpg?x59782" group-title="BANGLADESH",G TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/10/CGTN_Doc.png" group-title="BANGLADESH",Doccumentary 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtndoc.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/12/btv-news-.jpg" group-title="BANGLADESH",BTV NEWS 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvbd-office-sg.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png" group-title="BANGLADESH",MY TV 📺 (JAGOBD)
 https://mytvbangla.com/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/k2pZI4ICzAXwZVzMpB232mOwKAzGBrsWQ-ctp0xZjiVAm_n7pb89afOYrrvRZRoNQqE" group-title="BANGLADESH",Milenium TV📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/millenniumtv-odr-up2.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/ch9-150x150.jpg?x91288" group-title="BANGLADESH",Channel 9 📺 (JAGOBD)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8
 #EXTINF:1 tvg-name="Movie Bangla 📺" tvg-logo="https://i.ibb.co/qYhnpDTs/images-13.jpg" group-title="BANGLADESH",Movie Bangla 📺
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga 📺
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/10/vooa-150x150.jpg" group-title="BANGLADESH",Voice of America 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/voadoc.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x59782" group-title="BANGLADESH",SongSod TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/songsodtv-world.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/11/globaltv-150x150.jpg?x59782" group-title="BANGLADESH",Global TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/Global-tv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.jagonews24.com/media/imgAllNew/BG/2019October/jagonews24-md-20191101153408.jpg" group-title="BANGLADESH",Jagonews 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona-150x150.jpg?x59782" group-title="BANGLADESH",Mohona TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/samaykolkata-150x150.jpg?x59782" group-title="BANGLADESH",Somoy  Kolkata 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/samaykolkata.stream/playlist.m3u8|referer=https://www.jagobd.com
 #EXTINF:1 tvg-name="SAMAY KOLKATA" tvg-logo="https://i.ibb.co/tPqGBjWD/Screenshot-2025-07-04-15-30-24-694-org-telegram-messenger-edit.jpg" group-title="News",SAMAY KOLKATA 📺
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" group-title="BANGLADESH",Deen TV UK 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="BANGLADESH",DW NEWS 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/unnamed-150x150.webp?x59782" group-title="BANGLADESH",Ruposhi Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ruposhibangla.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="BANGLADESH",BTV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational1.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="BANGLADESH",Iqra Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/iqrabanglatvoffice.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Pakistan Discovery" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/discoverpakistan.jpg" group-title="BANGLADESH",Discovery Pakistan 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/NpGbNbr/Sananda-TV-Logo.jpg" group-title="BANGLADESH",Sananda Tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/sanandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Bangla TV 📺 (JAGOBD)" tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLADESH",Bangla TV 📺 (JAGOBD)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8
-#EXTINF:1 tvg-name="Ten tv prime 📺 (JAGOBD)" tvg-logo="https://i.ibb.co/gb8YH8cs/images.jpg" group-title="BANGLADESH",Ten tv prime 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/tenprime.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="BTV CTG 📺 (JAGOBD)" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/08/btvctg.png?x71442" group-title="BANGLADESH",BTV CTG 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/btvnational-ctg.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg?x91288" group-title="BANGLADESH",Asian TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/asian-test-sample-ok-d.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Anananda Tv" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x71442" group-title="BANGLADESH",Anananda Tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="B24C" tvg-logo="https://www.jagobd.com/wp-content/uploads/2023/01/b24c-1.jpeg?x71442" group-title="BANGLADESH",B24C 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Biswabangla tv" tvg-logo="https://i.ibb.co/FkFjfRNB/Screenshot-2025-07-14-17-58-23-561-mark-via-gp-edit.jpg" group-title="BANGLADESH",Biswabangla tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="CB24" tvg-logo="https://i.ibb.co/M5JLBqKb/Screenshot-2025-07-14-18-00-31-760-mark-via-gp-edit.jpg" group-title="BANGLADESH",CB24 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cb24.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="CGTN" tvg-logo="https://i.ibb.co/d4tmKcY1/Screenshot-2025-07-14-18-02-03-412-mark-via-gp-edit.jpg" group-title="BANGLADESH",CGTN 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cgtn.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Music Bangla" tvg-logo="https://i.ibb.co/wFkgRx7J/Screenshot-2025-07-14-18-03-38-555-mark-via-gp-edit.jpg" group-title="BANGLADESH",Music Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Channels 52" tvg-logo="https://www.jagobd.com/channel52usa" group-title="BANGLADESH",Channels 52 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel25usa.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Channels" tvg-logo="https://i.ibb.co/rfm7WMxN/chsbd.jpg" group-title="BANGLADESH",Channels 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="channels uk" tvg-logo="https://i.ibb.co/Lz4Tf1Pb/channelsukup.jpg" group-title="BANGLADESH",channels uk 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/chsukoff.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Colosal" tvg-logo="https://i.ibb.co/zV5zCsB3/colosaltvhd.jpg" group-title="BANGLADESH",Colosal 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="CSB" tvg-logo="https://i.ibb.co/cSW8WB0c/CSB-NEWS-USA-TV-Logo.png" group-title="BANGLADESH",CSB 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/csbnewsbd.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Cumilla 24" tvg-logo="https://i.ibb.co/Hfyt6Shv/Cumilla24.jpg" group-title="BANGLADESH",Cumilla 24 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/cumilla24bd.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Deshe bhideshe" tvg-logo="https://i.ibb.co/XhT0cCN/deshebideshe-1.jpg" group-title="BANGLADESH",Deshe bhideshe 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshebideshe.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="deshi tv" tvg-logo="https://i.ibb.co/0Hxb0xT/desitv.png" group-title="BANGLADESH",deshi tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/deshitv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Dim tv" tvg-logo="https://i.ibb.co/n8KtqDdb/dim.png" group-title="BANGLADESH",Dim tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dimtv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Euro bangla" tvg-logo="https://i.ibb.co/84sG36QC/eurobangla.jpg" group-title="BANGLADESH",Euro bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/eurobangla.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Fr 24" tvg-logo="https://i.ibb.co/6JHBp5hx/francenews24.jpg" group-title="BANGLADESH",Fr 24 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/fr24.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="IB tv" tvg-logo="https://i.ibb.co/6cHD0xfz/ibtv.jpg" group-title="BANGLADESH",IB tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ibtvus.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Anananda barta" tvg-logo="https://i.ibb.co/Gv2GMYdp/ANANDABARTA.jpg" group-title="BANGLADESH",Anananda barta 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandabarta.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Home tv" tvg-logo="https://i.ibb.co/RkZ78KnY/hometv.jpg" group-title="BANGLADESH",Home tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/hometv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Zodiak" tvg-logo="https://i.ibb.co/qLDRLpdp/zodiaktv.jpg" group-title="BANGLADESH",Zodiak 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zodiaktv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Jagoroni tv" tvg-logo="https://i.ibb.co/s91zgMtf/jagoroni.jpg" group-title="BANGLADESH",Jagoroni tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagoronitv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Max bangla" tvg-logo="https://i.ibb.co/xKYCVGPj/max-bangla.jpg" group-title="BANGLADESH",Max bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/maxbangla.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co/FbFdbP63/moviebangla.jpg" group-title="BANGLADESH",Movie Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Music Bangla" tvg-logo="https://i.ibb.co/prjN7Zh3/musicbangla.jpg" group-title="BANGLADESH",Music Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Music Bangla" tvg-logo="https://i.ibb.co/FqmSvQrv/mb.jpg" group-title="BANGLADESH",Music Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="My tv" tvg-logo="https://i.ibb.co/yn5PGVQw/mytv.jpg" group-title="BANGLADESH",My tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Nan tv" tvg-logo="https://i.ibb.co/b5mvXbV8/NAN-TV-Logo-02.png" group-title="BANGLADESH",Nan tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="News 21" tvg-logo="https://i.ibb.co/4RmrJgr0/news21.jpg" group-title="BANGLADESH",News 21 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/news21bd.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="NRB" tvg-logo="https://i.ibb.co/vvYbWsSS/nrb.jpg" group-title="BANGLADESH",NRB 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Ntv uk" tvg-logo="https://i.ibb.co/YBZn7qF2/ntveurope.jpg" group-title="BANGLADESH",Ntv uk 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Pbntv" tvg-logo="https://i.ibb.co/wrhNYgyt/pbn.jpg" group-title="BANGLADESH",Pbntv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/pbntv.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Peace tv bangla" tvg-logo="https://i.ibb.co/s92fhqJb/logo-50.png" group-title="BANGLADESH",Peace tv bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/peacetvban.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Quran tv" tvg-logo="https://i.ibb.co/d4283gjp/Copilot-20250530-180323.png" group-title="BANGLADESH",Quran tv 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/qurantvbangla.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:1 tvg-name="Shadin" tvg-logo="https://i.ibb.co/Nd2PxcXF/Shadin-bangla.jpg" group-title="BANGLADESH",Shadin 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/shadinbd1.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://i.ibb.co/m5qSc3gd/IMG-20250715-114102.jpg" group-title="Music",Zoom 📺 (JAGOBD)
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/zoomin.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://i.ibb.co/p6BVX1Fw/images-14.jpg" group-title="Music",Masti 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mastiiiin.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://i.ibb.co/Kp8hfzBj/images-10.jpg" group-title="Music",9x Jalwa 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/9xjalwain.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://i.ibb.co/ZRHcY8Nx/images-11.jpg" group-title="Music",Music Bangla 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8|referer=https://www.jagobd.com
-#EXTINF:-1 tvg-id="Music" tvg-logo="https://i.ibb.co/PGJLPmwL/images.jpg" group-title="Music",Music Bangla TV 📺 (JAGOBD)
-https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla2025.stream/playlist.m3u8|referer=https://www.jagobd.com
-
-
 
 
 
