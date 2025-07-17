@@ -200,8 +200,6 @@ Kids👦🏻👦🏻
 
 #EXTINF:1 tvg-name="Duronto Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Kids",Duronto Tv 📺(Kids) 📺 (iptv)
 http://tv.bdiptv.store/live/restreax/refstream/109.m3u8
-#EXTINF:-1 tvg-id="Disney Channel HD" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="Kids",Disney Channel Hindi 
-http://line.gofast-tv.me:80/play/live.php?mac=00:2a:01:90:28:A4&stream=1110627&extension=m3u8
 #EXTINF:1 tvg-name="SRKTV BANGLA 📺" tvg-logo="https://i.ibb.co/VYS3Fbtj/images-8.jpg" group-title="Kids",SRKTV BANGLA 📺(Kids)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/bM1nKXrh/images-4.jpg" group-title="Kids",Nick Bangla 📺(Kids)
