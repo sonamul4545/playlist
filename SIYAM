@@ -511,7 +511,8 @@ https://jmp2.uk/sam-IN3800008CX.m3u8
 #EXTINF:-1 tvg-id="-pictures" tvg-name="& Pictures (And Pictures)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/xdksem.png" tvg-chno="-pictures" group-title="Movies",& Pictures (And Pictures)
 https://tiger-hub.vercel.app/&Picture/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="-tv" tvg-name="& TV (And TV)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ipckcm.png" tvg-chno="-tv" group-title="Entertainment",& TV (And TV)
-https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+#https://tiger-hub.vercel.app/&TV/tracks-v1a1/mono.ts.m3u8
+https://live.drmlive-02.workers.dev/zee/0-9-tvhd_0.m3u8
 #EXTINF:-1 tvg-id="balle-balle" tvg-name="Balle Balle" tvg-language="Punjabi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/ejnlyj.png" tvg-chno="balle-balle" group-title="Music",Balle Balle
 https://cdn-4.pishow.tv/live/987/master.m3u8
 
