@@ -18,6 +18,62 @@ https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="News Channels",CNBC 📺 (INDIA)
 https://jmp2.uk/sam-INBD1300007ST.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/CNBC_Awaaz_logo.png" group-title="News",CNBC 📺 (INDIA)
+https://jmp2.uk/sam-INBD1300007ST.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://watchindia.net/images/channels/usa/CNN.png" group-title="News",CNN 📺
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/salaam.jpg" group-title="Islam Channel",Salaam Tv 📺
+https://ap02.iqplay.tv:8082/iqb8002/sa1aamch568/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv.png" group-title="Islam Channel",Deen TV UK 📺
+https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/TMS1rbj2/download.jpg" group-title="Islam Channel",ISLAMIC BANGLA 📺
+https://cdn149.anystream.uk:8082/app/ic6a5l6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png?x67896" group-title="Islam Channel",PEACE TV BANGLA 📺
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple30/v4/f3/b0/be/f3b0be12-eacf-89d1-e559-95041f0e8fde/source/512x512bb.jpg" group-title="Islam Channel",Eman Channel 📺
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/QvC2xh9M/images.png" group-title="Islam Channel",TV ONE 📺
+https://ap02.iqplay.tv:8082/iqb8002/tv01/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/IQRA-BANGLA-TV.jpeg" group-title="Islam Channel",IQRA BANGLA 📺
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cvnps2J.jpg" group-title="Islam Channel",Taqbeer Tv 📺
+https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://madanichannelbangla.tv/img/img/logo/b-logo.png" group-title="Islam Channel",MADANI CHANNEL 📺
+#https://ap02.iqplay.tv:8082/iqb8002/m@d@n1ch@nn3lb@ngl@/playlist.m3u8
+https://ap02.iqplay.tv:8082/iqb8002/madanimhtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/2109eaa2-edd1-48fc-bf64-6f0fa161e734.webp" group-title="Islam Channel",ISLAM TV 📺
+https://ap02.iqplay.tv:8082/iqb8002/i6sl9m/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/MakkahLive.jpg" group-title="Islam Channel",MAKKA TV 📺
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/mrXRsfZk/download-1.png" group-title="Islam Channel",Al Jajira English 📺
+https://live-hls-web-aje-fa.getaj.net/alternative/AJE/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ynfBXW6J/download-1.jpg" group-title="Islam Channel",Al Jazeera Mubasher 24 (1080p) 📺
+https://live-hls-apps-ajm24-fa.getaj.net/AJM24/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/tTw8ChjL/images-1.png" group-title="Islam Channel",Saudi Thaqafiya TV (1080p) 📺
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg" group-title="Islam Channel",কুরআন তেলাওয়াত 1 📺
+#http://164.215.98.132:2082/8649G54859/8649G54859/7217
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/HTW5NZDn/d9afec0f487f.jpg" group-title="Islam Channel",কুরআন তেলাওয়াত 2 📺
+#http://164.215.98.132:2082/8649G54859/8649G54859/71089
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg" group-title="Islam Channel",কুরআন তেলাওয়াত 3 📺
+#http://164.215.98.132:2082/8649G54859/8649G54859/71444
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg" group-title="Islam Channel",কুরআন তেলাওয়াত 4 📺
+#http://164.215.98.132:2082/8649G54859/8649G54859/71094
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg" group-title="Islam Channel",কুরআন তেলাওয়াত ৫ 📺
+#http://zkbvzkj.megahdtv.xyz:900/live/1103581436/4099381829/261034.ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dw1q9Ttt/b1d62a29defc.jpg" group-title="Islam Channel",কুরআন তেলাওয়াত ৬ 📺
+#http://164.215.98.132:2082/8649G54859/8649G54859/4868
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/90382fdf-a88e-4510-a6f6-0f56aed25bc0.jpg" group-title="Islam Channel",Q TV 📺
+https://ap02.iqplay.tv:8082/iqb8002/@ryq7vtv/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/ARY_Qtv_logo.png" group-title="Islam Channel",ARY NEWS 📺 (PAKISTAN)
+https://cdn149.anystream.uk:8082/app/qtvglmb/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/y2nJsbF/986f430a0b59.jpg" group-title="Islam Channel",Noor TV 📺
+https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/861b1c93-db90-4793-b4e7-e8437aa185d0.png" group-title="Islam Channel",BILLAL TV  📺
+https://ap02.iqplay.tv:8082/iqb8002/bil77tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.supaimg.com/018a70f5-c9eb-4625-814a-784f95a10580.jpg" group-title="Islam Channel",HILLAL TV 📺
+https://cdn149.anystream.uk:8082/app/h199ltv/playlist.m3u8
+
 
 
 
