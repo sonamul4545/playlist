@@ -584,18 +584,17 @@ https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 
 
 #EXTINF:1 tvg-name="Zee zeest" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/657978e7a8676a17df103068/images/zee_zest.png" group-title="Entertainment",Zee zeest
+#https://live.drmlive-02.workers.dev/zee/0-9-348.m3u8
 https://la.drmlive.net/tp/zee-348.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-
 #EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema
 #https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6708/index.m3u8
 #EXTINF:-1 tvg-id="zee-news" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tefpyz.png" tvg-chno="zee-news" group-title="News",Zee News
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_504.m3u8
 #EXTINF:-1 tvg-id="zee-sarthak" tvg-name="Zee Sarthak" tvg-language="Odia" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" tvg-chno="zee-sarthak" group-title="News",Zee Sarthak
-
+https://live.drmlive-02.workers.dev/zee/0-9-sarthaktv.m3u8
 #EXTINF:-1 tvg-id="zee-talkies" tvg-name="Zee Talkies" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/yhleum.png" tvg-chno="zee-talkies" group-title="Entertainment",Zee Talkies
-
-
+https://live.drmlive-02.workers.dev/zee/0-9-zeetalkies.m3u8
 #EXTINF:-1 tvg-id="zee-tv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/qsrytm.png" tvg-chno="zee-tv" group-title="Entertainment",Zee TV
 https://tiger-hub.vercel.app/Zee___tv-/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zing.png" tvg-chno="zing" group-title="Music",Zing
@@ -1213,8 +1212,7 @@ Zee5 📺📺📺
 
 
 #EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
+
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News 📺 (zee5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105510/ZEENEWSELE/master.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
@@ -1300,11 +1298,9 @@ https://z5ak-cmaflive.zee5.com/cmaf/live/2105529/ZeeKeralamHDELE/index-connected
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105554/ZeeBanglaHDELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
 #EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105526/ZeeAnmolELE/master.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
+https://live.drmlive-02.workers.dev/zee/0-9-zeeanmol.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movies" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD 📺 (zee5)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
-https://z5ak-cmaflive.zee5.com/cmaf/live/2105540/ZeeCinemaHDELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
 #EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Zee5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Cinemalu_HD.png",Zee Cinemalu HD 📺 (zee5)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105544/ZeeCinemaluHDELE/index-connected.m3u8?hdntl=exp=1752670681~acl=%2f*~data=hdntl~hmac=47b9f509344d2445ae23b13505d527f1d21382619f3c65a9bea3db48919f04cb
