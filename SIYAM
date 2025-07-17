@@ -597,7 +597,8 @@ https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 https://la.drmlive.net/tp/zee-348.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="zee-cinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/bklqmv.png" tvg-chno="zee-cinema" group-title="Movies",Zee Cinema 📺 (zee5)
 #https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8
-http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6708/index.m3u8
+#http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6708/index.m3u8
+https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
 #EXTINF:-1 tvg-id="zee-news" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/tefpyz.png" tvg-chno="zee-news" group-title="News",Zee News 📺 (zee5)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_504.m3u8
 #EXTINF:-1 tvg-id="zee-sarthak" tvg-name="Zee Sarthak" tvg-language="Odia" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/zee-sarthak.png" tvg-chno="zee-sarthak" group-title="News",Zee Sarthak 📺 (zee5)
