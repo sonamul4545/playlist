@@ -477,8 +477,10 @@ https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
 https://tiger-hub.vercel.app/Zee-bangla-Cinema/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="CBC" tvg-logo="https://i.ibb.co/4ZLcBMZc/Screenshot-2025-07-14-08-39-40-475-com-cricfy-tv-edit.jpg" group-title="Entertainment",CBC 📡 (ENTERTAINMENT)
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6422/index.m3u8
-#EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Entertainment",Sun Bangla 📡 (ENTERTAINMENT)
+#EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Entertainment",1.Sun Bangla 📡 (ENTERTAINMENT)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1669.m3u8
+#EXTINF:1 tvg-name="Sun Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Entertainment",2.Sun Bangla 📡 (ENTERTAINMENT)
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/19779/logo/240x240/mobile_logo_975410001725875598.png",TOFFEE Sports VIP 📺 (Toffee)
 https://tv.bongoflix.top/toffee/live.php?id=bc47b864eb83&=.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/2708/logo/240x240/mobile_logo_724353001725875591.png",TOFFEE Movies VIP 📺 (Toffee)
