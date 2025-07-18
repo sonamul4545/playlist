@@ -400,6 +400,39 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6418/index.m3u8
 #EXTINF:1 tvg-name="Star Sports 1" tvg-logo="https://i.ibb.co/bM02tWTw/images.jpg" group-title="Sports",Star Sports 1
 https://tiger-hub.vercel.app/Star_Sports-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="219" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports-1.png" group-title="Sports",T Sports 1 HD 📺 (bdiptv)
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
+#EXTINF:-1 tvg-id="207" tvg-logo="https://otapp.store/uploads/tv_image/sm/ten-sports.png" group-title="Sports",Ten Sports HD 📺 (bdiptv)
+http://app.hughag.store/api/6b9c461155/playlist.m3u8
+#EXTINF:-1 tvg-id="100" tvg-logo="https://otapp.store/uploads/tv_image/sm/bein-sports.png" group-title="Sports",Bein Sports HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/30714.m3u8
+#EXTINF:-1 tvg-id="99" tvg-logo="https://otapp.store/uploads/tv_image/sm/a-sports.png" group-title="Sports",A Sports HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/30776.m3u8
+#EXTINF:-1 tvg-id="98" tvg-logo="https://otapp.store/uploads/tv_image/sm/sky-sports.png" group-title="Sports",Sky Sports HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/30778.m3u8
+#EXTINF:-1 tvg-id="97" tvg-logo="https://otapp.store/uploads/tv_image/sm/t-sports.webp" group-title="Sports",T Sports HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/218.m3u8
+#EXTINF:-1 tvg-id="96" tvg-logo="https://otapp.store/uploads/tv_image/sm/red-bull-tv.png" group-title="Sports",Red Bull TV HD 📺 (bdiptv)
+https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/bd/en/playlist.m3u8
+#EXTINF:-1 tvg-id="95" tvg-logo="https://otapp.store/uploads/tv_image/sm/eurosport.png" group-title="Sports",Eurosport HD 📺 (bdiptv)
+http://app.hughag.store/api/ef22d71b0e/playlist.m3u8
+#EXTINF:-1 tvg-id="89" tvg-logo="https://otapp.store/uploads/tv_image/sm/ptv-sports.png" group-title="Sports",PTV Sports HD 📺 (bdiptv)
+https://live.incableinternet.com/v/QCZ86p6-0oo_0.m3u8
+#EXTINF:-1 tvg-id="88" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-5.png" group-title="Sports",Sony Sports Ten 5 HD 📺 (bdiptv)
+http://app.hughag.store/api/d74ec2f219/playlist.m3u8
+#EXTINF:-1 tvg-id="86" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-2.png" group-title="Sports",Sony Sports Ten 2 HD 📺 (bdiptv)
+http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
+#EXTINF:-1 tvg-id="85" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link" group-title="Sports",Sony Sports Ten 1 HD 📺 (bdiptv)
+http://app.hughag.store/api/762cf859a8/playlist.m3u8
+#EXTINF:-1 tvg-id="81" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-2-hd.png" group-title="Sports",Star Sports 2 HD HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/90.m3u8
+#EXTINF:-1 tvg-id="80" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png" group-title="Sports",Star Sports 1 HD HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/89.m3u8
+#EXTINF:-1 tvg-id="79" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png" group-title="Sports",Star Sport Select 2 HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/15246.m3u8
+#EXTINF:-1 tvg-id="78" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports",Star Sport Select 1 HD 📺 (bdiptv)
+http://tv.bdiptv.store:80/live/restreax/refstream/88.m3u8
+
 
 
 
