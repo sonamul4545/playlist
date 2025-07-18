@@ -196,14 +196,14 @@ Kids👦🏻👦🏻
 http://tv.bdiptv.store/live/restreax/refstream/109.m3u8
 #EXTINF:1 tvg-name="SRKTV BANGLA 📺" tvg-logo="https://i.ibb.co/VYS3Fbtj/images-8.jpg" group-title="Kids",SRKTV BANGLA 📺(Kids)
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/bM1nKXrh/images-4.jpg" group-title="Kids",Nick Bangla 📺(Kids)
-#http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
+#EXTINF:1 tvg-name="Nick bangla" tvg-logo="https://i.ibb.co/bM1nKXrh/images-4.jpg" group-title="Kids",Nick Bangla 📺(Kids) (bdiptv)
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1341.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/96.m3u8
 #EXTINF:1 tvg-name="Nick Hindi" tvg-logo="https://i.ibb.co/CKtZz8M1/images.png" group-title="Kids",Nick Hindi 📺(Kids)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_545.m3u8
-#EXTINF:1 tvg-name="Sonic Bangla" tvg-logo="https://i.ibb.co/V0Nv281L/IMG-20250715-020945-060.jpg" group-title="Kids",Sonic Bangla 📺(Kids)
-#http://tv.bdiptv.store/live/restreax/refstream/242.m3u8
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
+#EXTINF:1 tvg-name="Sonic Bangla" tvg-logo="https://i.ibb.co/V0Nv281L/IMG-20250715-020945-060.jpg" group-title="Kids",Sonic Bangla 📺(Kids)(bdiptv)
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_1345.m3u8
+http://tv.bdiptv.store/live/restreax/refstream/242.m3u8
 #EXTINF:1 tvg-name="Sonic Hindi 📺" tvg-logo="https://i.ibb.co/DFnsWGd/Screenshot-2025-07-15-02-03-25-523-com-android-chrome-edit.jpg" group-title="Kids",Sonic Hindi 📺(Kids)
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_815.m3u8
 #EXTINF:1 tvg-name="POGO HINDI 📺" tvg-logo="https://i.ibb.co/CpJHCfk1/IMG-20250715-093043-868.jpg" group-title="Kids",POGO HINDI 📺(Kids)
