@@ -177,7 +177,8 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:1 tvg-name="Movie Bangla 📺" tvg-logo="https://i.ibb.co/qYhnpDTs/images-13.jpg" group-title="BANGLADESH",Movie Bangla 📺
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="BANGLADESH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg",Maasranga 📺
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+#https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://tvsen5.aynaott.com/tK2BNvT68fHZ/tracks-v1a1/mono.ts.m3u8
 #EXTINF:1 tvg-name="SAMAY KOLKATA" tvg-logo="https://i.ibb.co/tPqGBjWD/Screenshot-2025-07-04-15-30-24-694-org-telegram-messenger-edit.jpg" group-title="News",SAMAY KOLKATA 📺
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 
@@ -465,7 +466,8 @@ https://tiger-hub.vercel.app/Zee-bangla/tracks-v1a1/mono.ts.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/MXUV9GU7KLRNNN/6636/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZzWVkn8K/image.jpg" group-title="Entertainment",COLORS BANGLA HD 📡 (ENTERTAINMENT)
 #https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
-https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
+#https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_756.m3u8
+https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movies.png" group-title="Entertainment",Jalsha Movies 📡 (ENTERTAINMENT)
 #http://tv.bdiptv.store/live/restreax/refstream/81.m3u8
 https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8
