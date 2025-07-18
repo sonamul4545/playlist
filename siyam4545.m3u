@@ -638,7 +638,7 @@ https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="discovery-channel" tvg-name="Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" tvg-chno="discovery-channel" group-title="Infotainment",2 Discovery Bangla 📺📡
 #https://tiger-hub.vercel.app/Discovery-bangla/tracks-v1a1/mono.m3u8
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_573.m3u8
-#EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Infotainment",3 Discovery Bangla 📺
+#EXTINF:-1 tvg-id="discovey" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/nddhwf.png" group-title="Infotainment",3 Discovery Bangla 📺 (bdiptv)
 http://tv.bdiptv.store/live/restreax/refstream/98.m3u8
 #EXTINF:1 tvg-name="Animal Planet Hindi" tvg-logo="https://i.ibb.co/Kjqfp8Nd/images-2.jpg" group-title="Infotainment",Animal Planet Hindi
 https://mini1.allinonereborn.xyz/jiotv-ww192/app/ts_live_566.m3u8
