@@ -425,13 +425,13 @@ http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo="https://otapp.store/uploads/tv_image/sm/sony-sports-ten-1.link" group-title="Sports",Sony Sports Ten 1 HD 📺 (bdiptv)
 http://app.hughag.store/api/762cf859a8/playlist.m3u8
 #EXTINF:-1 tvg-id="81" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-2-hd.png" group-title="Sports",Star Sports 2 HD HD 📺 (bdiptv)
-http://tv.bdiptv.store:80/live/restreax/refstream/90.m3u8
+https://demo-check-playlists.vercel.app/channels/star_sports_2.m3u8
 #EXTINF:-1 tvg-id="80" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sports-1-hd.png" group-title="Sports",Star Sports 1 HD HD 📺 (bdiptv)
-http://tv.bdiptv.store:80/live/restreax/refstream/89.m3u8
+https://demo-check-playlists.vercel.app/channels/star_sports_1.m3u8
 #EXTINF:-1 tvg-id="79" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-2.png" group-title="Sports",Star Sport Select 2 HD 📺 (bdiptv)
-http://tv.bdiptv.store:80/live/restreax/refstream/15246.m3u8
+https://demo-check-playlists.vercel.app/channels/star_sports_select_2.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo="https://otapp.store/uploads/tv_image/sm/star-sport-select-1.png" group-title="Sports",Star Sport Select 1 HD 📺 (bdiptv)
-http://tv.bdiptv.store:80/live/restreax/refstream/88.m3u8
+https://demo-check-playlists.vercel.app/channels/star_sports_select_1.m3u8
 
 
 
